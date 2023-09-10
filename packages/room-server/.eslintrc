@@ -3,7 +3,7 @@
     "../../.eslintrc",
   ],
   "parserOptions": {
-    "project": "./tsconfig.json"
+    "project": true
   },
   "rules": {
     // "@typescript-eslint/no-misused-promises": "error",
